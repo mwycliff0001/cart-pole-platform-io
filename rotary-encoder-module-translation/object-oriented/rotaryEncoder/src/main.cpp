@@ -17,7 +17,6 @@ long gcp = 0;
 long gcdh = 400;
 long gcd = gcdh/1;
 
-//object instantions
 RotaryEncoderController rotEncCx;
 Encoder ENC1;
 Encoder ENC2;
