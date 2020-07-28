@@ -5,9 +5,10 @@
    DESCRIPTION: 		ROTARY ENCODER
 
    NOTE:            This is an object
-                    oriented version of
-                    Daniel Vandenbrande's
-                    CPP code.
+                    oriented based permutation
+                    of Daniel Vandenbrande's
+                    c++ rotary encoder code
+		    for Arduino.
  */
 
 #include <Arduino.h>
